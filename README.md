@@ -1,1 +1,1 @@
-# CS521 MP2, Fall 2025
+# CS521 MP2, Fall 2026
