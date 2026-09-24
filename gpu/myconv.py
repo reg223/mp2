@@ -51,7 +51,8 @@ class ConvModel(nn.Module):
         KH = KW = self.kernel_size
 
         # TO DO: 1) convert input (x) into shape (N, out_h*out_w, C*KH*KW).
-        # cols = self.im2col_manual(x)          
+        # cols = self.im2col_manual(x) 
+        return 1         
 
         # TO DO: 2) flatten self.weight into shape (C_out, C*KH*KW).
 
